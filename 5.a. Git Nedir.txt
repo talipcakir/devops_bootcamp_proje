@@ -1,0 +1,1 @@
+Git: yazılım geliştirme sürecinde ortaya çıkan versiyonlama sorunlarından oraya çıkan eksikliği tamamlamak adına geliştirilen bir sistemdir. Versiyonlama sistemleri arasında en bilineni ve en çok kullanılanınıdır. Git kullanım kolaylığı, açık kaynak olarak sunulması ve sürekli geliştirilmesi ile diğer versiyonlama sistemlerinin önüne geçmeyi başarmıştır.
