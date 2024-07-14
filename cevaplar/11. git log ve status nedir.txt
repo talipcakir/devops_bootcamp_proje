@@ -1,0 +1,1 @@
+Git log: commit geçmişini görmek için kullanılır. Git status: varolan commit durumlarını (dosya durumlarını) görmek için kullanılır.
