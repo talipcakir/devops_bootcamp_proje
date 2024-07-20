@@ -1,0 +1,4 @@
+Git GUI: git komutlarını kullanmadan grafiksel arayüz ile komutları kullanmaya yarayan yardımcı programdır.
+Git CLI: git komut satırı arayüzüdür. git komutlarına erişim sağlar.
+
+Git GUI yüklenmesi ile git CLI yüklenmiş olur.
