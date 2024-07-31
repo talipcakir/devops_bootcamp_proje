@@ -1,0 +1,1 @@
+Git stash: üzerinde çalıştığımız ve hali hazırda tamamlanmamış kodları saklamak için oluşturulan geçici alandır. Amaç çalışma alanını temiz tutmaktır.
