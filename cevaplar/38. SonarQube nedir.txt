@@ -1,0 +1,1 @@
+Yazılım projelerinde kod analizi yapan, güvenliği ölçen platformdur. Hata, güvenlik ve iyileştirmesi gereken kodları raporlar.
