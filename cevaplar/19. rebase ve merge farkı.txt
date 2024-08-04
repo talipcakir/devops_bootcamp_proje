@@ -1,0 +1,2 @@
+Rebase: adı üstünde temellendirmedir. Bir dalı diğer dal ile yeniden temelledirir. Tüm commit geçmişi ile birlikte birleştiri.
+Merge: Dalları birleştirmek için kullanılır. Commit geçmişi saklanmış olur.

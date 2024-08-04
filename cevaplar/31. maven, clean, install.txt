@@ -1,0 +1,3 @@
+Maven, java projeleri için bağımlılık yönetimi ve otomasyon aracıdır. 
+maven clean: derlamede yer alan geçici dosyaları temizler.
+maven install: projeyi derlemek için kullanılır.

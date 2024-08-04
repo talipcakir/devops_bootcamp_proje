@@ -1,0 +1,1 @@
+Yazılım ve operasyon ekiplerinin iletişiminin amaçlandığı yaklaşım. Bu felsefede amaç yazılım geliştirme, test ve dağıtımın hızlandırması ve sürekliliği hedeflenmektedir.

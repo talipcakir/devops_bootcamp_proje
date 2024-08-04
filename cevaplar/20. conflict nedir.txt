@@ -1,0 +1,4 @@
+Conflict: git sistemi gereği satır balı olarak değişikleri takip etmektedir.
+Commitlerde satırlarda aynı anda (merge, pull gibi işlemlerde) değişiklik algılandığı durumda oluşur.
+Çakışma oluşan satırda merge işlemi ile düzenleme yapmak gerekir.
+Yada gelen yada giden commiti baz alarak düzenleme yapılması sağlanabilir.

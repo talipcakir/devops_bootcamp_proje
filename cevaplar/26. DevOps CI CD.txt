@@ -1,0 +1,3 @@
+Continuous Integration (CI): Kodlar ana koda sıklıkla eklenir ve testlerle doğrulanır. Hataların erken tespiti amaçlanır.
+Continuous Delivery (CD): CI sürecinin devamı, otomatik olarak hazırlanma ve test amaçlanır.
+Continuous Deployment: Son adımdır. Yayınlanması otomatize etmeyi amaçlar.

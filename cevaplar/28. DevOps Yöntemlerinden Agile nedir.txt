@@ -1,0 +1,1 @@
+Agile metodu geliştirme sürecini sprintlere bölerek süreci hızlandırmayı amaçlar. Sürekli geri birdirim sağlayarak uyumluluğu ve memnuniyeti arttırmayı hedefler.

@@ -1,0 +1,1 @@
+Continuous monitoring (sürekli izleme), adından da anlaşılacağı üzere çalışan sistemleri ve alt yapılarını sürekli izlemeyerek performans, güvenlik gibi alanlarda değerlendirmeyi amaçlamaktadır. 

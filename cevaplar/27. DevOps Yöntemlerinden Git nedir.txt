@@ -1,0 +1,1 @@
+DevOps da git paralel çalışmayı ve birleştirmeyi sağlar. Otomatize etme sürecinde de gitin branch ve versiyonlama desteği sayesinde yayınlama sürecini kolaylaştırır. 

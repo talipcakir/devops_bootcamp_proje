@@ -1,0 +1,3 @@
+Docker: uygulamaları ve bağımlılıklarını içeren konteynerleri oluşturma ve yönetme platformudur.
+Docker daemon: arkaplanada çalışan docker hizmetidir. konteynerlar ve imageler gibi yapıları ayakta tutar.
+Docker cli: docker daemon ile etkileşime geçme aracıdır.

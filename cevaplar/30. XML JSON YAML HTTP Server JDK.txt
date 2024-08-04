@@ -1,0 +1,6 @@
+XML: Veri taşımak için kullanılan işaretleme dilidir. Yapısal olarak element ve tagları kullanır. Eksisi elementler olmasından dolayı boyutu json a nazaran büyüktür. Artısı yapı içerisinde daha anlaşılır taglar olmasından dolayı verilerin anlaşılması ve işlenmesini kolaylaştırır.
+JSON: obje ve dizi mantığı ile hafif veri iletim dilidir. JSON ilk olarak her zaman obje içerisinde yer almalıdır. Array olarak başlayamaz.
+YAML: insan eliyle okunabilirliği ve yazılabilirliği ile daha işlevsel veri iletim dilidir. En sıkıntılı kısmı boşluklar ve işaretlemelerdir.
+HTTP: hyper text transfer protocol, bir tür veri iletim prokoludür. Metin tabanlı olması nedeni ile hızlı ve çift yönlü iletişimi hızlandırmaktadır.
+Server: Aslında bir bilgisayardır. İstemcilere herhangi bir hizmet ile yanıt veren bilgisayarlara denilebilir.
+JDK: Java geliştirme araçlarını içeren yazılım paketidir. Java dili ile yazılan kodları derleme ve çalıştırma araçlarını içerir.

@@ -1,0 +1,1 @@
+Git ignore: git commitlerine dahil edilememesi istenilen dosyaların ve dizinlerin listesinin yer aldığı dosyadır.

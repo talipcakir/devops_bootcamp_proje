@@ -1,0 +1,1 @@
+Git tag: repoda yer alan commite versiyon etiketi eklemek için kullanılır.

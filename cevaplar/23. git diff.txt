@@ -1,0 +1,2 @@
+git diff: iki branch yada commit arasında ki farklılıkları görmemizi sağlar.
+Dizinlerde varlık bazlı, doslarda satır bazlı olarak farklılıkları listeler.
